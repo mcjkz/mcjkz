@@ -1,6 +1,11 @@
 # Hi , I'm Maciej Kozak
 
-I am a final-year Practical Computer Science student at the University of Gdańsk. I am developing my skills in frontend technologies such as **React**, **TypeScript**, and **Angular**, while also expanding my backend knowledge in **Java**, **Spring Boot**, and **Python**. Currently, I work as a **Frontend Web Developer** at **Univentum Labs**, where I contribute to the **[L2B2 Platform](https://l2b2.inf.ug.edu.pl/)** project developed within a student academic circle. The codebase is private and hosted on GitLab. In my daily work, I collaborate in a Scrum environment and focus on writing clean, maintainable code in line with **SOLID** principles. I also have experience with **cloud** and **DevOps-related technologies**, including **Azure**, **Docker**, and **Kubernetes**. I am looking for a place where I can continue to grow as a developer, take on new challenges, and gain valuable professional experience.
+I am a final-year Practical Computer Science student at the University of Gdańsk.   
+
+I am developing my skills in frontend technologies such as **React**, **TypeScript**, and **Angular**, while also expanding my backend knowledge in **Java**, **Spring Boot**, and **Python**.   
+Currently, I work as a **Frontend Web Developer** at **Univentum Labs**, where I contribute to the **[L2B2 Platform](https://l2b2.inf.ug.edu.pl/)** project developed within a student academic circle.   
+The codebase is private and hosted on GitLab. In my daily work, I collaborate in a Scrum environment and focus on writing clean, maintainable code in line with **SOLID** principles.   
+I also have experience with **cloud** and **DevOps-related technologies**, including **Azure**, **Docker**, and **Kubernetes**. I am looking for a place where I can continue to grow as a developer, take on new challenges, and gain valuable professional experience.
 
 ### 🔗 Connect with Me
 
