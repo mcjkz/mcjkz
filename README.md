@@ -11,7 +11,6 @@ I also have experience with **cloud** and **DevOps-related technologies**, inclu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mjkz/)
 
----
 
 ### 🚀 Core Technologies
 
