@@ -1,4 +1,4 @@
-# Hi , I'm Maciej Kozak
+# Hi, I'm Maciej Kozak
 
 I am a final-year Practical Computer Science student at the University of Gdańsk.   
 
